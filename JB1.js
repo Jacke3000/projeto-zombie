@@ -10,6 +10,7 @@ function btnClique(){
     function JB1 (resposta){
         if(resposta == 2 ){
         alert ("Não irá se arriscar ao se afastar do grupo e tentar se salvar sozinho, vai seguir com seu trajeto pois o grupo precisa de sua ajuda. Fim");
+        location.replace("index.html")
         }
          else if(resposta==1){
         alert("Muitos perigos nas ruas até o local, mas está é uma ótima oportunidade para buscar ajuda e fugir desse pesadelo.")

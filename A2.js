@@ -10,6 +10,8 @@ function btnClique(){
         }
          else if(resposta==1){
         alert("Alana com sua sagacidade consegue desviar dos zumbis sem chamar atenção ela desvia dos carros, buracos e dos corpos espalhados pelo chão das ruas, mas por um azar do destino ao se desviar de alguns zumbis ela cai e se corta com um pedaço de viga de ferro chamando atenção de todos os zumbis que estavam perto dali infelizmente não conseguiu escapar. FIM")
+        location.replace("index.html")
+
        
         
 
